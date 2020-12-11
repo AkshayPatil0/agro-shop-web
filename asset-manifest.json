@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/agro-shop-web/static/css/main.776ae5d0.chunk.css",
+    "main.js": "/agro-shop-web/static/js/main.b48883ee.chunk.js",
+    "main.js.map": "/agro-shop-web/static/js/main.b48883ee.chunk.js.map",
+    "runtime-main.js": "/agro-shop-web/static/js/runtime-main.147cea44.js",
+    "runtime-main.js.map": "/agro-shop-web/static/js/runtime-main.147cea44.js.map",
+    "static/css/2.2a86faee.chunk.css": "/agro-shop-web/static/css/2.2a86faee.chunk.css",
+    "static/js/2.200a3739.chunk.js": "/agro-shop-web/static/js/2.200a3739.chunk.js",
+    "static/js/2.200a3739.chunk.js.map": "/agro-shop-web/static/js/2.200a3739.chunk.js.map",
+    "index.html": "/agro-shop-web/index.html",
+    "precache-manifest.41e73389315986bee09a3ceccb5fdcbc.js": "/agro-shop-web/precache-manifest.41e73389315986bee09a3ceccb5fdcbc.js",
+    "service-worker.js": "/agro-shop-web/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/agro-shop-web/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.776ae5d0.chunk.css.map": "/agro-shop-web/static/css/main.776ae5d0.chunk.css.map",
+    "static/js/2.200a3739.chunk.js.LICENSE.txt": "/agro-shop-web/static/js/2.200a3739.chunk.js.LICENSE.txt",
+    "static/media/icon.png": "/agro-shop-web/static/media/icon.5545ace5.png",
+    "static/media/news.png": "/agro-shop-web/static/media/news.3a4f6cd4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.147cea44.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.200a3739.chunk.js",
+    "static/css/main.776ae5d0.chunk.css",
+    "static/js/main.b48883ee.chunk.js"
+  ]
+}
